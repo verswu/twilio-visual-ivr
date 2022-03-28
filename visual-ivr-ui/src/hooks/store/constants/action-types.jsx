@@ -1,0 +1,2 @@
+export const SET_CONFERENCE_NAME = 'SET_CONFERENCE_NAME'; 
+export const SET_EMAIL = 'SET_EMAIL';
