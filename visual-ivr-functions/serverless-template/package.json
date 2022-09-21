@@ -11,7 +11,7 @@
     "lint": "prettier --write 'functions/**/*.{ts,tsx,js,json}' & eslint --fix 'functions/**/*.{ts,tsx,js,json}' --cache"
   },
   "dependencies": {
-    "@okta/jwt-verifier": "^2.3.0",
+    "@okta/jwt-verifier": "^2.6.0",
     "rollbar": "^2.24.0",
     "twilio": "^3.65.0",
     "twilio-flex-token-validator": "^1.5.6",
